@@ -24,7 +24,7 @@ module.exports = {
                     activities: [{
                         name: `${str_content}`,
                         type: "STREAMING",
-                        url: "https://twitch.tv/4wipyk"
+                        url: "https://www.tiktok.com/@mz_d.tv"
                     }],
                     status: "online"
                 });
