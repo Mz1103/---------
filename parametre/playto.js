@@ -24,7 +24,7 @@ module.exports = {
           activities: [{
             name: `${str_content}`,
             type: "PLAYING",
-            url: "https://discord.gg/A5bfyv3AzB"
+            url: "https://discord.gg/tHDqSRvSDQ"
           }],
           status: "online"
         });
