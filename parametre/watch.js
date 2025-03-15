@@ -23,7 +23,7 @@ module.exports = {
                     activities: [{
                         name: `${str_content}`,
                         type: "WATCHING",
-                        url: "https://discord.gg/tHDqSRvSDQ"
+                        url: "https://discord.gg/luxusshop"
                     }],
                     status: "online"
                 });
